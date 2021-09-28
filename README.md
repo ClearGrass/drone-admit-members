@@ -1,3 +1,6 @@
+# drone oauth认证
+现在没有进行权限认证直接放行了
+
 # drone-admit-members
 
 An admission extension to limit system access based on GitHub organization and team membership. Here is a summary of how the extension works:
